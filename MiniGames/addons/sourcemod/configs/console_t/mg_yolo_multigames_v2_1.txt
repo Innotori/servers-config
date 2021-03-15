@@ -7,77 +7,77 @@
 
     "@Map begins in 3 seconds..."
     {
-        "chi" "** **"
+        "chi" "3秒后开始本局游戏"
     }
 
     "@Map begins in 2 seconds..."
     {
-        "chi" "** **"
+        "chi" "2秒后开始本局游戏"
     }
 
     "@Map begins in 1 second..."
     {
-        "chi" "** **"
+        "chi" "1秒后开始本局游戏"
     }
 
     "@[MAP] AWP"
     {
-        "chi" "** **"
+        "chi" "AWP站"
     }
 
     "@[MAP] HEADSHOT"
     {
-        "chi" "** **"
+        "chi" "爆头战"
     }
 
     "@[MAP] WALLHACKS"
     {
-        "chi" "** **"
+        "chi" "透视战"
     }
 
     "@[MAP] CREEPER"
     {
-        "chi" "** **"
+        "chi" "逃离苦力帕"
     }
 
     "@[MAP] KNIFE"
     {
-        "chi" "** **"
+        "chi" "刀战"
     }
 
     "@[MAP] GRENADE HOLES"
     {
-        "chi" "** **"
+        "chi" "手雷砸洞洞"
     }
 
     "@[MAP] BLOCKS"
     {
-        "chi" "** **"
+        "chi" "夺命方块"
     }
 
     "@[MAP] PISTOLS"
     {
-        "chi" "** **"
+        "chi" "手枪战"
     }
 
     "@[MAP] WTF? SCOUTS"
     {
-        "chi" "** **"
+        "chi" "鸟狙"
     }
 
     "@[MAP] VOLLEYBALL"
     {
-        "chi" "** **"
+        "chi" "打排球"
     }
 
     "@[MAP] ELEVATOR"
     {
-        "chi" "** **"
+        "chi" "电梯大战"
     }
 
     "@[MAP] AIM"
     {
-        "chi" "** **"
+        "chi" "对枪"
     }
 
     "@[MAP] This Level By SOLIDSNAKE"
@@ -87,22 +87,22 @@
 
     "@[MUSIC] Smash Mouth - All Star"
     {
-        "chi" "** **"
+        "chi" "[BGM] Smash Mouth - All Star"
     }
 
     "@[MUSIC] Daft Punk - Get Lucky"
     {
-        "chi" "** **"
+        "chi" "[BGM] Daft Punk - Get Lucky"
     }
 
     "@[MUSIC] OPM - Heaven Is A Halfpipe"
     {
-        "chi" "** **"
+        "chi" "[BGM] OPM - Heaven Is A Halfpipe"
     }
 
     "@[MUSIC] Watsky - IDGAF"
     {
-        "chi" "** **"
+        "chi" "[BGM] Watsky - IDGAF"
     }
 
     "@[MUSIC] Lenny Kravitz - Fly Away"
@@ -112,142 +112,142 @@
 
     "@[MUSIC] Lou Bega - Mambo No 5"
     {
-        "chi" "** **"
+        "chi" "[BGM] Lou Bega - Mambo No 5"
     }
 
     "@[MUSIC] Macklemore - Cant Hold Us"
     {
-        "chi" "** **"
+        "chi" "[BGM] Macklemore - Cant Hold Us"
     }
 
     "@[MUSIC] Disclosure - White Noise"
     {
-        "chi" "** **"
+        "chi" "[BGM] Disclosure - White Noise"
     }
 
     "@[MUSIC] Major Lazer & DJ Snake - Lean On"
     {
-        "chi" "** **"
+        "chi" "[BGM] Major Lazer & DJ Snake - Lean On"
     }
 
     "@[MUSIC] Philip George - Wish You Were Mine"
     {
-        "chi" "** **"
+        "chi" "[BGM] Philip George - Wish You Were Mine"
     }
 
     "@[MUSIC] Kygo - Firestone ft. Conrad"
     {
-        "chi" "** **"
+        "chi" "[BGM] Kygo - Firestone ft. Conrad"
     }
 
     "Winners get in position!"
     {
-        "chi" "** **"
+        "chi" "赢家开球"
     }
 
     "Losers prepare to take balls to the face"
     {
-        "chi" "** **"
+        "chi" "输家等死"
     }
 
     "@[MAP] GOOOOOOAAAAAALLLLL"
     {
-        "chi" "** **"
+        "chi" "好——球——"
     }
 
     "@[MAP] 1HP FOOTBALL"
     {
-        "chi" "** **"
+        "chi" "1HP球赛"
     }
 
     "@[MAP] Knife damage allowed in 30 seconds"
     {
-        "chi" "** **"
+        "chi" "30秒后开启刀伤"
     }
 
     "@[MAP] Knife damage allowed in 10 seconds"
     {
-        "chi" "** **"
+        "chi" "10秒后开启刀伤"
     }
 
     "@[MAP] Knife damage enabled!"
     {
-        "chi" "** **"
+        "chi" "刀伤以开启"
     }
 
     "@[MAP] FOOTBALL"
     {
-        "chi" "** **"
+        "chi" "球赛"
     }
 
     "@[MAP] You can now cross over to enemylines"
     {
-        "chi" "** **"
+        "chi" "双方边界现已开放"
     }
 
     "@[MAP] Blocks breaking in 30 seconds"
     {
-        "chi" "** **"
+        "chi" "30秒后方块爆破"
     }
 
     "@[MAP] Blocks breaking in 10 seconds"
     {
-        "chi" "** **"
+        "chi" "10秒后方块爆破"
     }
 
     "@[MAP] Blocks breaking in 5 seconds"
     {
-        "chi" "** **"
+        "chi" "5秒后方块爆破"
     }
 
     "@[MAP] Enabling bullet damage in 30 seconds"
     {
-        "chi" "** **"
+        "chi" "30秒后启用武器伤害"
     }
 
     "@[MAP] Enabling bullet damage in 10 seconds"
     {
-        "chi" "** **"
+        "chi" "10秒后启用武器伤害"
     }
 
     "@[MAP] Enabling bullet damage in 5 seconds"
     {
-        "chi" "** **"
+        "chi" "5秒后启用武器伤害"
     }
 
     "@[MAP] Bullet damage enabled"
     {
-        "chi" "** **"
+        "chi" "武器伤害已启用"
     }
 
     "@[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
     {
-        "chi" "** **"
+        "chi" "射击己方颜色方块并将其糊在对方玩家脸上"
     }
 
     "@[MAP] The Blocks Will Fly Towards You When You Shoot"
     {
-        "chi" "** **"
+        "chi" "被击中的方块将向子弹飞行方向移动"
     }
 
     "[TERRORISTS WIN]"
     {
-        "chi" "** **"
+        "chi" "T阵营胜利"
     }
 
     "[COUNTER-TERRORISTS WIN]"
     {
-        "chi" "** **"
+        "chi" "CT阵营胜利"
     }
 
     "[TERRORISTS NOW HAVE 2 BALLS]"
     {
-        "chi" "** **"
+        "chi" "T阵营现有2球"
     }
 
     "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
     {
-        "chi" "** **"
+        "chi" "CT阵营现有2球"
     }
 
 }
