@@ -7,72 +7,72 @@
 
     "[BHOP] Somebody won the race!"
     {
-        "chi" "** **"
+        "chi" "一名玩家抵达了终点.."
     }
 
     "[BHOP] Teleporting the losers!"
     {
-        "chi" "** **"
+        "chi" "已将其余玩家送入刷分点"
     }
 
     "[MAP] 500HP Spawn-Knife!"
     {
-        "chi" "** **"
+        "chi" "500HP刀战*"
     }
 
     "[MAP] 1 Minute left!"
     {
-        "chi" "** **"
+        "chi" "剩余1分钟"
     }
 
     "[MAP] 10 Seconds left!"
     {
-        "chi" "** **"
+        "chi" "剩余10秒"
     }
 
     "[MAP] Bunny-Hop!"
     {
-        "chi" "** **"
+        "chi" "连 跳"
     }
 
     "[MAP] 5..."
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "[MAP] 4..."
     {
-        "chi" "** **"
+        "chi" "4"
     }
 
     "[MAP] 3..."
     {
-        "chi" "** **"
+        "chi" "3"
     }
 
     "[MAP] 2..."
     {
-        "chi" "** **"
+        "chi" "2"
     }
 
     "[MAP] 1..."
     {
-        "chi" "** **"
+        "chi" "1*"
     }
 
     "[MAP] 0..."
     {
-        "chi" "** **"
+        "chi" "0"
     }
 
     "[MAP] Dodgeball!"
     {
-        "chi" "** **"
+        "chi" "躲 避 球"
     }
 
     "[MAP] Climb!"
     {
-        "chi" "** **"
+        "chi" "攀 岩"
     }
 
     "[MAP] Autporting to Lvl2 climb!"
@@ -87,22 +87,22 @@
 
     "[MAP] 1v1 Deagle - HEADSHOT ONLY!"
     {
-        "chi" "** **"
+        "chi" "1V1 爆头沙鹰"
     }
 
     "[MAP] Chosing Players"
     {
-        "chi" "** **"
+        "chi" "正在选择玩家"
     }
 
     "[MAP] 1v1 Deagle - 1HP!"
     {
-        "chi" "** **"
+        "chi" "1V1 1HP沙鹰"
     }
 
     "[MAP] 1v1 Deagle - Normal!"
     {
-        "chi" "** **"
+        "chi" "1V1 沙鹰对枪"
     }
 
     "[MAP] Grenades! R.I.P. Basketball"
@@ -112,47 +112,47 @@
 
     "[MAP] You guys take too long to kill each other. Let me destroy the wall for you! <3"
     {
-        "chi" "** **"
+        "chi" "别绕了，墙被扬了"
     }
 
     "[MAP] Longjump!"
     {
-        "chi" "** **"
+        "chi" "跳 远"
     }
 
     "[MAP] You have 45 seconds to build up speed and jump from the ramp."
     {
-        "chi" "** **"
+        "chi" "你有45秒时间以加速跳过这里"
     }
 
     "[MAP] The Player who made it the farthest wins."
     {
-        "chi" "** **"
+        "chi" "跳跃距离最远者获胜"
     }
 
     "[MAP] 8..."
     {
-        "chi" "** **"
+        "chi" "8"
     }
 
     "[MAP] Teleporting Losers"
     {
-        "chi" "** **"
+        "chi" "正在传送输家"
     }
 
     "[MAP] 6..."
     {
-        "chi" "** **"
+        "chi" "6"
     }
 
     "[MAP] 9..."
     {
-        "chi" "** **"
+        "chi" "9"
     }
 
     "[MAP] 10..."
     {
-        "chi" "** **"
+        "chi" "10"
     }
 
     "[MAP] 7..."
@@ -162,102 +162,102 @@
 
     "Map made by WL! (STEAM_1:0:104117293)"
     {
-        "chi" "** **"
+        "blocked"
     }
 
     "[Music] Alex Komlew & Kevin Zaremba - Summer Sun"
     {
-        "chi" "** **"
+        "chi" "[BGM] Alex Komlew & Kevin Zaremba - Summer Sun"
     }
 
     "[Music] Kubbi - Up In My Jam"
     {
-        "chi" "** **"
+        "chi" "[BGM] Kubbi - Up In My Jam"
     }
 
     "[Music] Watsky - Never Let it Die"
     {
-        "chi" "** **"
+        "chi" "[BGM] Watsky - Never Let it Die"
     }
 
     "[Music] Watsky - Ugly Faces"
     {
-        "chi" "** **"
+        "chi" "[BGM] Watsky - Ugly Faces"
     }
 
     "[Music] benjamin francis leftwich - shine kygo remix"
     {
-        "chi" "** **"
+        "chi" "[BGM] benjamin francis leftwich - shine (kygo remix)"
     }
 
     "[Music] Charlie Puth - Betty Boop Original Mix"
     {
-        "chi" "** **"
+        "chi" "[Music] Charlie Puth - Betty Boop (Original Mix)"
     }
 
     "[Music] jrabbit - tequila remix"
     {
-        "chi" "** **"
+        "chi" "[BGM] jrabbit - tequila remix"
     }
 
     "[MAP] Someone finished Climb!"
     {
-        "chi" "** **"
+        "chi" "一名玩家抵达了终点"
     }
 
     "[MAP] Chosing new Players!"
     {
-        "chi" "** **"
+        "chi" "正在选择下一名玩家进入游戏"
     }
 
     "[MAP] A Player won his duel!"
     {
-        "chi" "** **"
+        "chi" "一名玩家干碎了对方玩家"
     }
 
     "[MAP] Battle - DEAGLE - 100HP!"
     {
-        "chi" "** **"
+        "chi" "100HP沙鹰混战"
     }
 
     "[MAP] Deagle Fight - 1HP !"
     {
-        "chi" "** **"
+        "chi" "1HP沙鹰混战"
     }
 
     "[MAP] Battle - DEAGLE - Headshot ONLY!"
     {
-        "chi" "** **"
+        "chi" "爆头沙鹰"
     }
 
     "[MAP] Battle - KNIFE - 100HP!"
     {
-        "chi" "** **"
+        "chi" "100HP刀战"
     }
 
     "[MAP] Battle - KNIFE - 250HP!"
     {
-        "chi" "** **"
+        "chi" "250HP刀战"
     }
 
     "[MAP] Battle - KNIFE - 1HP!"
     {
-        "chi" "** **"
+        "chi" "1HP刀战"
     }
 
     "[MAP] Player AFK or too slow. Chosing RANDOM Game."
     {
-        "chi" "** **"
+        "chi" "选图超时，正在随机选择模式"
     }
 
     "[MAP] AWP - Battle!"
     {
-        "chi" "** **"
+        "chi" "大狙混战"
     }
 
     "[MAP] Scout - Battle!"
     {
-        "chi" "** **"
+        "chi" "鸟狙对战"
     }
 
 }
